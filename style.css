@@ -81,14 +81,10 @@ font-size: 0;
 	color: ##F15B31;
 	font-weight: 700;
 }
-button{
-	margin: 20px 0 0 0;
-	padding: 3px 10px;
-}
-
 a:hover {
 	color: white;
 }
 span {
 	color: #F15B31;
 	font-weight: 700;
+}
